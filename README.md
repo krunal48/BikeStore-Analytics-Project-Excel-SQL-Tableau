@@ -54,17 +54,15 @@ The dataset contains the following fields:
 
 ## Project Workflow
 ### SQL Section
-- **4:06**: Writing SQL queries to extract and transform data.
-- **17:44**: Analyzing query results and exporting data for further use.
+- Writing SQL queries to extract and transform data.
+- Analyzing query results and exporting data for further use.
 
 ### Excel Section
-- **19:32**: Connecting SQL dataset to Excel Workbook.
-- **32:22**: Setting up interactive Excel dashboards with slicers and pivot tables.
-- **35:07**: Creating map charts for geographic analysis.
+- Connecting SQL dataset to Excel Workbook.
+- Setting up interactive Excel dashboards with slicers and pivot tables.
+- Creating map charts for geographic analysis.
 
 ### Tableau Section
-- **1:01:12**: Importing Excel data into Tableau.
-- **1:20:33**: Building executive dashboards with filters and action buttons.
-- **1:35:41**: Using calculated fields for enhanced contextual insights.
-
----
+- Importing Excel data into Tableau.
+- Building executive dashboards with filters and action buttons.
+- Using calculated fields for enhanced contextual insights.
